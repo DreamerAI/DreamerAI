@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DreamerAI
-- 👀 I’m interested in WEB-DESIGN and UX/UI DESIGN
+- 👀 I’m interested in WEB-DESIGN and UI DESIGN
 - 🌱 I’m currently learning REDUX / SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @abdykayimovaidar@gmail.com 
