@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DreamerAI
 - 👀 I’m interested in WEB-DESIGN and UI DESIGN
 - 🌱 I’m currently learning REDUX / SQL / TypeScript / KY
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for a job
 - 📫 How to reach me @abdykayimovaidar@gmail.com 
 
 <!---
